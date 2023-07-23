@@ -1,6 +1,6 @@
-# logicaJS
+# LógicaJS
 
-Lógica JS O sistema deve pedir para o usuário responder 3 perguntas:
+O sistema deve pedir para o usuário responder 3 perguntas:
 
 Qual o seu nome?
 Quantos anos você tem?
