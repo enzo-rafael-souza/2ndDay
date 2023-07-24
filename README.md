@@ -1,4 +1,4 @@
-# LógicaJS
+# 7DaysOfCode
 
 O sistema deve pedir para o usuário responder 3 perguntas:
 
